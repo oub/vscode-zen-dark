@@ -13,6 +13,7 @@
     "zen",
     "black",
     "dark",
+    "light",
     "flat"
   ],
   "contributes": {
@@ -22,20 +23,21 @@
         "uiTheme": "vs-dark",
         "path": "./themes/dark/zen-color-theme.json"
       }
-    ],
-    "icon": "icon.png",
-    "galleryBanner": {
-      "color": "#000",
-      "theme": "dark"
-    },
-    "license": "SEE LICENSE IN LICENSE.md",
-    "homepage": "https://github.com/oub/vscode-zen-dark",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/oub/vscode-zen-dark.git"
-    },
-    "bugs": {
-      "url": "https://github.com/oub/vscode-zen-dark/issues"
-    }
-  }
+    ]
+  },
+  "homepage": "https://github.com/oub/vscode-zen-dark",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oub/vscode-zen-dark.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oub/vscode-zen-dark/issues"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "publisher": "oub",
+  "galleryBanner": {
+    "color": "#000",
+    "theme": "dark"
+  },
+  "icon": "icon.png"
 }

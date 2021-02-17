@@ -8,7 +8,7 @@
 
 # Installation
 
-Search for _Dark Zen Theme_ from the extension installer within VSCode or execute below line in the **command palette** (**F1**/**Ctrl+Shift+P**):
+Execute below line in the **command palette** (**F1**/**Ctrl+Shift+P**):
 
 ```
 ext install oub.zen-dark
