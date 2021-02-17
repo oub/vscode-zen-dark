@@ -1,0 +1,41 @@
+{
+  "name": "zen-dark",
+  "displayName": "Zen Dark Theme",
+  "description": "Dark theme with lots of zen",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.53.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "zen",
+    "black",
+    "dark",
+    "flat"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Zen Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark/zen-color-theme.json"
+      }
+    ],
+    "icon": "icon.png",
+    "galleryBanner": {
+      "color": "#000",
+      "theme": "dark"
+    },
+    "license": "SEE LICENSE IN LICENSE.md",
+    "homepage": "https://github.com/oub/vscode-zen-dark",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/oub/vscode-zen-dark.git"
+    },
+    "bugs": {
+      "url": "https://github.com/oub/vscode-zen-dark/issues"
+    }
+  }
+}
