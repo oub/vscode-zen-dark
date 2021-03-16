@@ -22,7 +22,7 @@
     "activityBar.foreground": "#666",
     "statusBar.foreground": "#555",
 
-     "debugToolBar.background": "#381900",
+    "debugToolBar.background": "#381900",
     "statusBar.debuggingBackground": "#793600",
     "statusBar.debuggingForeground": "#fff8",
 
