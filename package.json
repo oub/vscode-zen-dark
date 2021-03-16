@@ -13,7 +13,6 @@
     "zen",
     "black",
     "dark",
-    "light",
     "flat"
   ],
   "contributes": {
