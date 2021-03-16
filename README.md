@@ -1,6 +1,6 @@
-Dark theme for VSCode with lots of zen
-
-/* screenshot soon */
+![screenshot](media/screenshot-dark.png)
+![screenshot](media/screenshot-menu-dark.png)
+![screenshot](media/screenshot-quickmenu-dark.png)
 
 ## Installation
 
