@@ -1,7 +1,7 @@
 {
   "name": "Zen Dark",
   "type": "dark",
-  "tokenColors": "./afterglow.tmTheme",
+  "tokenColors": "./qno-dark.tmTheme",
   "colors": {
     //
     // ZONE 1 : TITLE BARS --------------------------------- #000
@@ -63,7 +63,7 @@
     "welcomePage.background": "#161616",
     "tab.activeBackground": "#161616",
     "tab.activeBorder": "#161616",
-    "tab.activeBorderTop": "#222",//"#062e53",//"#084d8d",
+    "tab.activeBorderTop": "#222", //"#062e53",//"#084d8d",
 
     "foreground": "#555",
     "textLink.activeForeground": "#4d91d1",

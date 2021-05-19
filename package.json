@@ -2,7 +2,7 @@
   "name": "zen-dark",
   "displayName": "Zen Dark Theme",
   "description": "Dark theme with lots of zen",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.53.0"
   },
